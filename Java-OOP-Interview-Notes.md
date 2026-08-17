@@ -1,5 +1,4 @@
 # Java OOP — Interview Prep Notes
-*Compiled from Kunal Kushwaha's DSA-Bootcamp-Java (`lectures/17-oop`)*
 
 ---
 
