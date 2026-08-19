@@ -1,5 +1,4 @@
 # Java OOP — Interview Prep Notes
-*Compiled from Kunal Kushwaha's DSA-Bootcamp-Java (`lectures/17-oop`) + extra core-concept sections (Stack/Heap, Encapsulation, Polymorphism, Instance vs Reference variables, Static Typing) written in simple language for quick revision.*
 
 ---
 
